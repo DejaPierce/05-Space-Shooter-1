@@ -1,6 +1,6 @@
 Name: Deja Pierce
 Date: 10/18/19
-Project: Space Shooter 
+Project: Space Shooter
 Peer's repository: Emily Garvey
 
 
