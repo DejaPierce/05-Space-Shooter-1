@@ -1,0 +1,37 @@
+Name: Deja Pierce
+Date: 10/18/19
+Project: Space Shooter 
+Peer's repository: Emily Garvey
+
+
+
+What is something you learned by reviewing your peer's project?
+There is nothing that I learned by reviewing my peer's project. 
+ 
+
+What is something you saw in your peer's project that you would like to apply to your own programming projects?
+There is nothing in my peer's project that I would like to apply to my own programming projects. 
+ 
+
+What suggestions would you have for your peer to improve his/her code?
+Even though my peer didn't create a space shooter, they could have at least copied what the code that was given to us and try to change some things. 
+ 
+
+What could have been clearer or better commented?
+There is nothing that could have been cleaer or better commented. 
+ 
+
+Was there anything in the code that was confusing to you? If so, what?
+There was nothing in the code taht was confusing to me. 
+ 
+
+Does the repository contain an appropriate LICENSE?
+Yes it contains an appropriate LICENSE. 
+ 
+
+What is something he/she could add to the README.md to make it more descriptive?
+Something that could have been added in the README.md is what you were trying to add to the project that didn't know how code in visual studio or why the project wasn't started/finished. 
+ 
+
+Pay a compliment to your peer based on the quality of his/her code.
+Although, there wasn't a space shooter at least you put a license and read.me. Also, if you're having trouble with the project ask the professor or someone else we're all here to help each other and to make each other become better programers. 
